@@ -19,5 +19,4 @@ def css_math(dir_path, op, x, test=False):
 
 
 if __name__ == "__main__":
-    # css_math("./testDir", "*", 2)
-    css_math("C:\\Users\\bjrat\\source\\repos\\Javascript\\ChessKingsCouncil\\app\\src\\Components\\NewGame\\Customize", "*", 0.75)
+    css_math("./test_dir", "*", 2)

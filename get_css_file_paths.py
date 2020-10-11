@@ -14,4 +14,4 @@ def get_css_file_paths(dir_path):
 
 
 if __name__ == "__main__":
-    pprint(get_css_file_paths("./testDir"))
+    pprint(get_css_file_paths("./test_dir"))

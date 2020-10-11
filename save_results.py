@@ -7,7 +7,7 @@ def save_results(file_paths, result_strs, test=False):
     for i in range(len(file_paths)):
         path = file_paths[i]
         if test:
-            path = file_paths[i].replace('testDir', 'resultDir')
+            path = file_paths[i].replace('test_dir', 'result_dir')
         f = open(path, 'w')
         f.write(result_strs[i])
         f.close()

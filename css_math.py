@@ -19,4 +19,4 @@ def css_math(dir_path, op, x, test=False):
 
 
 if __name__ == "__main__":
-    css_math("./test_dir", "*", 2)
+    css_math("./test_dir", "*", 0.5, test=True)

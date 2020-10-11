@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fd5f4f5-7cbb-4e4d-9654-bca37f4a2fad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css_math.py" beforeDir="false" afterPath="$PROJECT_DIR$/css_math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Bottom/CustomiseOk.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Bottom/CustomiseOk.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Bottom/PromoList.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Bottom/PromoList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Bottom/PromoListScrollArrow.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Bottom/PromoListScrollArrow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Bottom/SubList.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Bottom/SubList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Customize.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Customize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/HelpText.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/HelpText.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/NewGamePlayerType.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/NewGamePlayerType.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/CheckBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/CheckBox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/NameTooltip.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/NameTooltip.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/PieceNameLabel.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/PieceNameLabel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/Profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/Profile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/ExpandModal.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/ExpandModal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameDisplayBoard/NewGameDisplayPiece.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameDisplayBoard/NewGameDisplayPiece.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameDisplayBoard/NewGameDisplaySquare.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameDisplayBoard/NewGameDisplaySquare.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameProfileWBHeader.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameProfileWBHeader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameRangeTable.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameRangeTable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameScrollArrow.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/NewGameScrollArrow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/ProfileWB.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/ProfileWB/ProfileWB.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/Profile/SubDropdown.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/Profile/SubDropdown.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/PromoAll.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/PromoAll.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_dir/SearchBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/result_dir/SearchBar.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,22 +188,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602361791517" />
-    <state width="1899" height="145" key="GridCell.Tab.0.bottom" timestamp="1602457656992">
+    <state width="934" height="141" key="GridCell.Tab.0.bottom" timestamp="1602458102132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602457656992" />
-    <state width="1899" height="145" key="GridCell.Tab.0.center" timestamp="1602457656992">
+    <state width="934" height="141" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602458102132" />
+    <state width="934" height="141" key="GridCell.Tab.0.center" timestamp="1602458102131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="145" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602457656992" />
-    <state width="1899" height="145" key="GridCell.Tab.0.left" timestamp="1602457656992">
+    <state width="934" height="141" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602458102131" />
+    <state width="934" height="141" key="GridCell.Tab.0.left" timestamp="1602458102131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="145" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602457656992" />
-    <state width="1899" height="145" key="GridCell.Tab.0.right" timestamp="1602457656992">
+    <state width="934" height="141" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602458102131" />
+    <state width="934" height="141" key="GridCell.Tab.0.right" timestamp="1602458102131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="145" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602457656992" />
+    <state width="934" height="141" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602458102131" />
     <state width="1899" height="203" key="GridCell.Tab.1.bottom" timestamp="1602455473159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

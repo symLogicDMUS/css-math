@@ -1,0 +1,7 @@
+increase/decrease all CSS length/width/top/left/right/bottom and other values that use the following units:
+
+px, pc, pt, in, mm, cm, %, vw, vh, vmin, bmax, rem, ch, ex, em
+
+all by the same amount. Applied to ever .css file in a directory. This module should only be used on CSS files that use
+color names or hexidecimal color values, not files with colors of the form rgb(r, g, b), or hsl(%1, %2, %3)
+
